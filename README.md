@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Link: [Why Not Me - Forrest.][youtubelink]
+Link: [Why Not Me - Forrest.][musiclink]
 
 [musiclink]: <https://youtu.be/8463BZqzjQY> "Why Not Me"
 
